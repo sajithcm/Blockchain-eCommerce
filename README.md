@@ -1,7 +1,8 @@
-# Simplifying-and-Securing-CrossBorder-eCommerce
+# CrossBorder-eCommerce
 
 Agile planning of a Block chain enabled Logistics application (imaginary) has been included here.
-This portfolio is developed using Jile (jile.io) tool. The categories are as follows:
+This portfolio is developed using Jile (jile.io) tool and also in JIRA. 
+The categories for Jile are as follows:
 
   1. Vision
   2. Objectives
@@ -9,5 +10,10 @@ This portfolio is developed using Jile (jile.io) tool. The categories are as fol
   4. Features
   5. User Stories
 
-The same project has been developed in JIRA tool as well.
+The categories for JIRA are as follows:
+
+  1. Epic
+  2. User Stories
+  3. Dashboard
+  4. Confluence
 
