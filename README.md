@@ -9,4 +9,5 @@ This portfolio is developed using Jile (jile.io) tool. The categories are as fol
   4. Features
   5. User Stories
 
+The same project has been developed in JIRA tool as well.
 
